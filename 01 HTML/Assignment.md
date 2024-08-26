@@ -105,7 +105,7 @@ Do this for your Entities library project.
 You are used to model relationships with associations, e.g. a Post has many Comments. Then the Post would have a List of Comments.
 We don’t initially do this. It comes later in the course.
 
-[!CAUTION]
+[!IMPORTANT]
 DON’T DO ASSOCIATIONS NOW
 
 We use the approach of a relational database, and model our entity-relationships using foreign keys.
