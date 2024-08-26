@@ -1,5 +1,11 @@
-# 0x Exercises: xxx
+# 01 Exercises: Introduction to C#
 
-## x. Set Up Your Development Environment
+## 1. Set Up Your Development Environment
 
-## x. Set Up Your Development Environment
+Here is some help to do that
+...
+
+## 2. Do the assignment
+
+[Assignment 1](Assignment.md)
+
