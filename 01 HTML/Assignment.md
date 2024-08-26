@@ -105,7 +105,7 @@ Do this for your Entities library project.
 You are used to model relationships with associations, e.g. a Post has many Comments. Then the Post would have a List of Comments.
 We don’t initially do this. It comes later in the course.
 
-[!Caution]
+[!CAUTION]
 DON’T DO ASSOCIATIONS NOW
 
 We use the approach of a relational database, and model our entity-relationships using foreign keys.
@@ -211,7 +211,7 @@ This makes filtering the Users by some criteria easier (using predicates, later)
 Maybe we want to fetch all Users with a specific sub-string in the username. Or some other property on the User.
 The method is not async, the reason of which we will get back to, when we add a database.
 
-[!Caution]
+[!CAUTION]
 You will define such an I*Repository interface per entity!
 
 ### What is Task and Async?
